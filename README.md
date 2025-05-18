@@ -1,16 +1,3 @@
-# pctv
-# Bangladesh IPTV Channels List (50 Channels)
-
-এই রেপোজিটরিতে বাংলাদেশের জনপ্রিয় টেলিভিশন চ্যানেলের একটি সম্পূর্ণ লিস্ট দেওয়া হলো।  
-প্রতিটি চ্যানেলের লাইভ স্ট্রিমিং (M3U8) লিঙ্ক এবং অফিসিয়াল লোগো দেয়া আছে।  
-এই লিস্টটি IPTV প্লেয়ার বা মিডিয়া অ্যাপে সহজেই ব্যবহার করা যাবে।
-
----
-
-## Channels List
-
-| #  | Channel Name         | Live Stream (M3U8) Link                              | Logo                                                                                                   |
-|----|----------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 1  | T-Sports             | [Watch](http://172.20.21.22/live/skyfeed1005/index.m3u8) | ![T-Sports](http://172.20.21.22/skynet@8080/ftpdata/live_TV/T-Sports-Bangladesh-Logo.png)               |
 | 2  | Somoy TV             | [Watch](http://172.20.21.22/live/skyfeed1004/index.m3u8) | ![Somoy TV](http://172.20.21.22/skynet@8080/ftpdata/live_TV/somoy_tv.png)                             |
 | 3  | Ekattor TV           | [Watch](http://172.20.21.22/live/skyfeed1015/index.m3u8) | ![Ekattor TV](http://172.20.21.22/skynet@8080/ftpdata/live_TV/ekator.jpg)                             |
@@ -61,29 +48,4 @@
 | 48 | Nagorik TV           | [Watch](http://172.20.21.22/live/nagorik/index.m3u8)       | ![Nagorik TV](https://upload.wikimedia.org/wikipedia/en/6/6c/Nagorik_TV_Logo.png)                     |
 | 49 | Channel 1            | [Watch](http://172.20.21.22/live/channel1/index.m3u8)      | ![Channel 1](https://upload.wikimedia.org/wikipedia/en/5/59/Channel_1_Bangladesh_logo.png)            |
 | 50 | Bangla Trishna TV    | [Watch](http://172.20.21.22/live/banglatrishna/index.m3u8) | ![Bangla Trishna TV](https://upload.wikimedia.org/wikipedia/en/7/70/Bangla_Trishna_TV_Logo.png)       |
-
----
-
-## Usage
-
-- IPTV প্লেয়ার বা মিডিয়া অ্যাপে M3U8 লিঙ্ক ব্যবহার করে চ্যানেলগুলো দেখতে পারবেন।  
-- লোগো সহ নাম থাকায় UI বানানো সহজ হবে।  
-- নতুন চ্যানেল যুক্ত করতে চাইলে পুল রিকোয়েস্ট করুন বা ইস্যু ওপেন করুন।  
-
----
-
-## Contributing
-
-- ভুল লিঙ্ক বা লোগো পেলে ইস্যু করুন।  
-- নতুন চ্যানেল বা আপডেট চাইলে পুল রিকোয়েস্ট পাঠান।  
-
----
-
-## License
-
-এই রেপোজিটরির কন্টেন্ট ওপেন সোর্স এবং বিনামূল্যে ব্যবহারযোগ্য।  
-
----
-
-**আপনাদের IPTV অভিজ্ঞতা আরো উন্নত হোক!**
 
